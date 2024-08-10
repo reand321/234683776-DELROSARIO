@@ -236,3 +236,25 @@
   236  clear
   237  git checkout -b finalexam
   238  history>exam_log.txt
+  239* 
+  240  git commit -m "Added exam_log.txt with command history"
+  241  git push origin finalexam
+  242  clear
+  243  nano exam_log.txt
+  244  git push origin finalexam
+  245  nano exam_log.txt
+  246  git commit --ammend --no-edit
+  247  git commit -amend --no-edit
+  248  git commit --amend --no-edit
+  249  git rebase --continue
+  250  clear
+  251  git push origin finalexam
+  252  nano exam_log.txt
+  253  git push origin finalexam--force
+  254  git push origin finalexam --force
+  255  clear
+  256  gh repo clone https://github.com/reand321/234683776-DELROSARIO
+  257  git checkout -b finalexam
+  258  histoty>exam_log
+  259  history>exam_log
+  260  history> exam_log.txt
