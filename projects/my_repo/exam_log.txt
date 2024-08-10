@@ -191,6 +191,7 @@
   191  clear
   192  gh logout
   193  gh ssh-key
+  194  gh ssh-keu add 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
   195  ls
   196  cd projects
   197  cd linux_practice/practice_subdir
@@ -203,15 +204,35 @@
   204  git config --list
   205  logout
   206  cd 234683776-DELROSARIO
-  207  git push origin finalexqm
-  208  git checkout -b finalexam
-  209  git commit -m "CC22 DONE!"
-  210  CLEAR
+  207  cd projects/my_repo
+  208  git add exam_log.txt
+  209  git commit -m "Added exam_log.txt with command history"
+  210  git commit -m exam_log.txt
   211  clear
-  212  ls
-  213  cd projects
-  214  cd ..
-  215  gh repo clone https://github.com/reand321/234683776-DELROSARIO
-  216  cd projects/my_repo
-  217  git checkout -b finalexam
-  218  history > exam_log.txt
+  212  git status
+  213  ls
+  214  git add exam_log.txt
+  215  git commit -m "Added exam_log.txt with command history"
+  216  git add exam_log.txt
+  217  git commit -m "Added exam_log.txt with command history"
+  218  cleat
+  219  clear
+  220  ls
+  221  cd..
+  222  cd ..
+  223  ls
+  224  cd ..
+  225  clear
+  226  git add exam_log.txt
+  227  cd projects/my_repo
+  228  ls
+  229  git add exam_log.txt
+  230  git commit -m "Added exam_log.txt with command history"
+  231  git commit -a
+  232  git add exam_log.txt
+  233  git commit -m "Added"
+  234  git help
+  235  git add --help
+  236  clear
+  237  git checkout -b finalexam
+  238  history>exam_log.txt
