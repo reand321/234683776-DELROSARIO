@@ -1,0 +1,164 @@
+  1  cd 234683776-DELROSARI9
+  2  cd 234683776-DELROSARIO
+  3  logout
+  4  clear
+  5  gh auth login
+  6  clear
+  7  dir
+  8  cd 234683776-DELROSARIO
+  9  rmdir projects/my_repo
+  10  mkdir projects/my_repo
+  11  help
+  12  mkdir projects
+  13  cd projects
+  14  mkdir my_repo
+  15  cd my_repo
+  16  clear
+  17  mkdir linux_practice
+  18  cd linux_practice
+  19  touch notes.txt
+  20  ls
+  21  nano notes.txt
+  22  cat notes.txt
+  23  append notes.txt
+  24  help
+  25  clear
+  26  nano notes.txt
+  27  cat
+  28  ls
+  29  mv practice_dir practice_subdir
+  30  cd ..
+  31  mv practice_dir practice_subdir
+  32  cd practice_subdir
+  33  cd ..
+  34  cp practice_subdir/notes.txt
+  35  cp practice_subdir/notes.txt linux_practice
+  36  ls
+  37  date
+  38  uptime
+  39  du ~
+  40  ssh -v
+  41  php -v
+  42  mysql --version
+  43  apache2 -v
+  44  pkg install apache2
+  45  apache2 --version
+  46  httpd -v
+  47  python --version
+  48  java -version
+  49  git checkout -b finalexam
+  50  git add notes.txt
+  51  cd practice_subdir
+  52  git add notes.txt
+  53  git commit -m "CC22 is finally done"
+  54  gh auth login
+  55  git commit -m "CC22 DONE!"
+  56  git config --global user.email "johndelrosario123@gmail.com"
+  57  git config --global user.name "reand321"
+  58  git commit -m "CC22 DONE!"
+  59  git push origin finalexam
+  60  git remote -v
+  61  git credential-cache exit
+  62  git push origin finalexam
+  63  git remote set-url origin git@github.com:reand321/234683776-DELROSARIO.git
+  64  git credential-cache exit
+  65  git push origin finalexam
+  66  git auth login
+  67  git --help
+  68  gh auth login
+  69  git push origin finalexam
+  70  git remote set-url origin https://github.com/reand321/234683776-DELROSARIO
+  71  remote -v
+  72  git remote -v
+  73  git push origin finalexam
+  74  git config --global
+  75  git --help
+  76  clear
+  77  git credential-cache exit
+  78  git push origin finalexam
+  79  git/config
+  80  .git/config
+  81  git config --global
+  82  git config --help
+  83  clear
+  84  cd
+  85  cd 234683776-DELROSARIO
+  86  git push origin finalexam
+  87  git checkout -b finalexam
+  88  git push origin finalexam
+  89  git push
+  90  got push --set-upstream origin finalexam
+  91  git push --set-upstream origin finalexam
+  92  cd
+  93  git push --set-upstream origin finalexam
+  94  cd 234683776-DELROSARIO
+  95  git status
+  96  cleat
+  97  clear
+  98  gh logout
+  99  ls
+  100  cd projects
+  101  cd linux_practice/practice_subdir
+  102  ls
+  103  cd my_repo
+  104  cd linux_practice/practice_subdir
+  105  git push origin finalexam
+  106  clear
+  107  git --list
+  108  git config --list
+  109  logout
+  110  cd 234683776-DELROSARIO
+  111  cd projects/my_repo
+  112  git add exam_log.txt
+  113  git commit -m "Added exam_log.txt with command history"
+  114  git commit -m exam_log.txt
+  115  clear
+  116  git status
+  117  ls
+  118  git add exam_log.txt
+  119  git commit -m "Added exam_log.txt with command history"
+  120  git add exam_log.txt
+  121  git commit -m "Added exam_log.txt with command history"
+  122  cleat
+  123  clear
+  124  ls
+  125  cd..
+  126  cd ..
+  127  ls
+  128  cd ..
+  129  clear
+  130  git add exam_log.txt
+  131  cd projects/my_repo
+  132  ls
+  133  git add exam_log.txt
+  134  git commit -m "Added exam_log.txt with command history"
+  135  git commit -a
+  136  git add exam_log.txt
+  137  git commit -m "Added"
+  138  git help
+  139  git add --help
+  140  clear
+  141  git checkout -b finalexam
+  142  history>exam_log.txt
+  143  git commit -m "Added exam_log.txt with command history"
+  144  git push origin finalexam
+  145  clear
+  146  nano exam_log.txt
+  147  git push origin finalexam
+  148  nano exam_log.txt
+  149  git commit --ammend --no-edit
+  150  git commit -amend --no-edit
+  151  git commit --amend --no-edit
+  152  git rebase --continue
+  153  clear
+  154  git push origin finalexam
+  155  nano exam_log.txt
+  156  git push origin finalexam--force
+  157  git push origin finalexam --force
+  158  clear
+  159  gh repo clone https://github.com/reand321/234683776-DELROSARIO
+  160  git checkout -b finalexam
+  161  histoty>exam_log
+  162  history>exam_log
+  163  history> exam_log.txt
+  164  clear
